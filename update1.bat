@@ -1,1 +1,0 @@
-steamcmd.exe +login anonymous +force_install_dir ../server_csgo/ +app_update 740  +quit
