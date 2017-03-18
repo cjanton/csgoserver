@@ -1,15 +1,1 @@
-Запуск сервера напрямую
 
-
-
-Классический:
-./srcds_run -game csgo -console -usercon +game_type 0 +game_mode 0 +mapgroup mg_bomb +map de_dust +sv_pure 0
-
-Гонка вооружений:
-./srcds_run -game csgo -console -usercon +game_type 1 +game_mode 0 +mapgroup mg_armsrace +map ar_shoots +sv_pure 0
-
-Разрушение объекта:
-./srcds_run -game csgo -console -usercon +game_type 1 +game_mode 1 +mapgroup mg_demolition +map de_lake +sv_pure 0
-
-Deathmatch:
-./srcds_run -game csgo -console -usercon +game_type 1 +game_mode 2 +mapgroup mg_allclassic +map de_dust +sv_pure 0
