@@ -1,1 +1,0 @@
-steamcmd.exe +login anonymous +force_install_dir ../папка_хранения_вашего_сервера/ +app_update 740  +quit
